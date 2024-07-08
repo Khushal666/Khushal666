@@ -3,13 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal666&label=Profile%20views&color=0e75b6&style=flat" alt="khushal666" /> </p>
 
+- 🔭 I’m currently working on **on improving cloud deployments**
+
 - 🌱 I’m currently learning **Azure DevOps and expanding my skills in cloud automation**
 
-- 💬 Ask me about **Docker,Linux**
+- 👯 I’m looking to collaborate on **on open-source DevOps projects**
+
+- 🤝 I’m looking for help with **integrating AI into DevOps**
+
+- 💬 Ask me about **Docker,Linux and cloud technologies**
 
 - 📫 How to reach me **knirwan380@gmail.com**
 
-- ⚡ Fun fact **I enjoy learning new skills!**
+- ⚡ Fun fact **🎭Acting and event management activites**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
